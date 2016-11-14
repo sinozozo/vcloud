@@ -1,0 +1,13 @@
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/account/package-info.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/account/AccountService.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/device/ProtocolType.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/device/package-info.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/common/package-info.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/device/Device.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/device/DeviceService.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/account/Account.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/common/entity/BaseEntity.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/common/BaseMicroserviceVerticle.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/device/Location.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/common/service/JdbcRepositoryWrapper.java
+/Users/zouqiang/Documents/vcloud/vcloud-common/src/main/java/com/reachauto/common/RestAPIVerticle.java

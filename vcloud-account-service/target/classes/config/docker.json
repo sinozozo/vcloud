@@ -1,0 +1,8 @@
+{
+  "api.name": "account",
+  "url": "jdbc:mysql://mysql:3306/vcloud?characterEncoding=UTF-8&useSSL=false",
+  "driver_class": "com.mysql.cj.jdbc.Driver",
+  "user": "root",
+  "password": "root",
+  "max_pool_size": 30
+}

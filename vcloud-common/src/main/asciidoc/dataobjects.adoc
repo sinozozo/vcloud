@@ -1,0 +1,21 @@
+= Cheatsheets
+
+[[Product]]
+== Product
+
+++++
+ Created by zouqiang on 2016/11/8.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[account]]`account`|`link:dataobjects.html#Account[Account]`|-
+|[[apiKey]]`apiKey`|`String`|-
+|[[delFlag]]`delFlag`|`String`|-
+|[[id]]`id`|`Number (Integer)`|-
+|[[name]]`name`|`String`|-
+|===
+
